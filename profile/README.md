@@ -6,7 +6,7 @@ BESSER is an FNR Pearl funded project lead by the [Luxembourg Institute of Scien
 
 BESSER main goal is to build a [low-modeling](https://modeling-languages.com/welcome-to-the-low-modeling-revolution/) [low-code](https://modeling-languages.com/low-code-vs-model-driven/) open-source platform.
 
-BESSER team page: https://besser-pearl.github.io/teampage/
+BESSER team page: https://besser-pearl.github.io/website/
 
 ## Documentation
 
