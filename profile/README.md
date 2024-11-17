@@ -13,4 +13,4 @@ BESSER team page: https://besser-pearl.github.io/website/
 [BESSER Documentation](https://besser.readthedocs.io/en/latest/)
 
 
-[BESSER Bot Framework](https://besserbot-framework.readthedocs.io/en/latest/)
+[BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/)
