@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # BESSER (Building Better Smart Software Faster)
 BESSER is an FNR Pearl funded project lead by the [Luxembourg Institute of Science and Technology](https://www.list.lu/) with the participation of the [Snt/University of Luxembourg](https://www.uni.lu/snt-en/) and open to all your contributions!
 
