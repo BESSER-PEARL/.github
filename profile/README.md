@@ -7,7 +7,7 @@ BESSER team page: https://besser-pearl.github.io/website/
 
 ## Documentation
 
-[BESSER Documentation](https://besser.readthedocs.io/en/latest/)
+[BESSER Low-code platform Documentation](https://besser.readthedocs.io/en/latest/)
 
 
-[BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/)
+[BESSER Agentic Framework](https://github.com/BESSER-PEARL/BESSER-Agentic-Framework)
